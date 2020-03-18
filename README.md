@@ -1,2 +1,2 @@
-# cara-bodoh-ku
+# MDN
 Simple HTML project
