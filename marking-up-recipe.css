@@ -1,0 +1,29 @@
+body {
+    text-align: justify;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: whitesmoke;
+    font-size: 18px;
+}
+
+div {
+    text-align: center;
+    margin: auto;
+}
+
+#heading1 {
+    text-align: center;
+    background-color: teal;
+    margin-bottom: 50px;
+    font-weight: normal;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    background-color: teal;
+}
